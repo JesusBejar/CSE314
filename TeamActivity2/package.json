@@ -28,6 +28,6 @@
   },
   "devDependencies": {
     "autogen": "^0.0.1",
-    "swagger": "^0.7.5"
+    "swagger": "^0.6.0"
   }
 }
