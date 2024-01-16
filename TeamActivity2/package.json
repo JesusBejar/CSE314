@@ -25,5 +25,9 @@
     "mongoose": "^6.0.14",
     "nodemon": "^2.0.15",
     "swagger-ui-express": "^5.0.0"
+  },
+  "devDependencies": {
+    "autogen": "^0.0.1",
+    "swagger": "^0.7.5"
   }
 }
