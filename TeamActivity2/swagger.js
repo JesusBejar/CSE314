@@ -5,10 +5,11 @@ const doc = {
     title: 'Temple API',
     description: 'Description'
   },
-  host: 'localhost:8080'
+  host: 'localhost:8080',
+  schemes: ['http'],
 };
 
-const outputFile = './swagger-output.json';
+const outputFile = './swagger.json';
 const routes = ['./routes/index.js'];
 // removed the 2nd route below
 // , './routes/temple.js'
